@@ -253,7 +253,7 @@ int main(int argc, char** argv)
     {
         fprintf(stderr,
                 "Usage:   %s [Email Recipient]\n" \
-                "Example: %s example@gmail.com\n",
+                "Example: %s example@some-domain.com\n",
                 argv[0],
                 argv[0]);
 
